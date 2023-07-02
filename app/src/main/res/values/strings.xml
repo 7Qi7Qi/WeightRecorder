@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yui</string>
+    <string name="tab_text_1">Tab Add</string>
+    <string name="tab_text_2">Tab Statistics</string>
+</resources>
